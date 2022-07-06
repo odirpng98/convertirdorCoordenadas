@@ -1,4 +1,5 @@
-**Convertidor de Corrdendas**
+**Convertidor de Coordenadas**
+
 Este proyecto esta basado en convertir coordenadas. 
 Realiza los siguientes tipo de conversiones:
 - Coordenadas esfericas a cartesianas.
